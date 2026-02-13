@@ -22,9 +22,6 @@ I am learning in public by documenting concepts I actually understand — not co
 
 security/ → Networking, authentication, authorization, cloud security  
 fhir/ → Resource modeling and healthcare interoperability  
-dsa-python/ → Daily Python problem solving  
-diagrams/ → Architecture understanding  
-mini-projects/ → Practical implementations
 
 ---
 
